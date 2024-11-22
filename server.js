@@ -1,9 +1,12 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const mime = require("mime");
+const cors = require('cors')
 
 const app = express();
 const PORT = 3000;
+
+app/usr(cors());
 
 // Middleware to parse JSON
 app.use(bodyParser.json());
