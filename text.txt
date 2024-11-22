@@ -1,0 +1,9 @@
+n this round, candidates were tasked with building and hosting a REST API (Method: POST) that accepts an array and returns the following:
+
+Status
+User ID
+Email ID
+College Roll Number
+Array for even numbers
+Array for odd numbers
+Array for alphabets, converted to uppercase
